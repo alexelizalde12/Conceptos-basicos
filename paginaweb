@@ -1,0 +1,178 @@
+<hr/>
+<hr/>
+
+</section id="Frames"/>
+<h1>Frames</h1>
+<h1>¿Qué es?</h1>
+<P>Es un caudro que está dentro de la página el cual divide la página en distintas secciones para su contenido</P>
+<h2> Función</h2>
+<p>La función de un frame es definir la organización de marcos dentro de un sitio es como una decoración para las páginas</p>
+<h2> Caracterísitcas </h2>
+<p>Pueden hacerse en vertical y horizontal</p>
+<p>Divide los marcos de la página </p>
+<p>Se aplica en html con la etiqueta frame</p>
+<p>Podemos aplicarle estilos con css</p>
+<img src="icono/frames.jpg" WIDTH="400" HEIGHT="300" Title="frames" />
+<hr/>
+<hr/>
+
+<h1>Hipervinculos internos y externos</h1>
+<h1>¿Qué es?</h1>
+<P> Los enlaces internos son aquellos que cuando picamos en ellos nos llevan a alguna partde nuestra página web mientras que los enlaces externos nos van a llevar siempre hacia otras páginas que hayamos citado nos llevan a otra página</P>
+<h2> Función</h2>
+<p><strong>Los enlaces internos</strong>nos llevan hacia una parte especifica de nuestra propia página</p>
+<p><strong>Los enlaces externos</strong> Nos llevan hacia otros sitios que hayamos citado dentro de nuestra página al momento de picar en este enlace se abrira otra página en nuestro navegador</p>
+<h2> Caracterísitcas </h2>
+<h3>Enlaces internos</h3>
+<p>Nos llevan hacia contenido de nuestra misma página</p>
+<p>Se los cita en alguna parte de la página principal en los menús</p>
+<h3>Enlaces externos</h3>
+<p>Nos lleva hacia otras páginas que hayamos citado</p>
+<p>Siempre están marcadas como con una línea y en azul</p>
+<p>Su etiqueta es <strong>a href</strong> </p>
+<img src="icono/hipervinculos.jpg" WIDTH="400" HEIGHT="300" Title="Enlaces internos y externos" />
+<p></p>
+<A  TARGET= "_ BLANK"HREF= " https://www.google.com/search?q=hipervinculos+internos+y+externos&client=avast-a-3&hl=es-419&sxsrf=AOaemvJux0fntYz3oWqXVDJhyxQGdl6pwg:1638394747769&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHx8SHyMP0AhV3QzABHd0tAc8Q_AUoAXoECAEQAw&biw=1366&bih=568&dpr=1#imgrc=RaD1_LOVpDOm-M&imgdii=0FsuK4AJEZFu6M">Hipervinculos locales y externos</A>
+
+
+<hr/>
+
+<hr/>
+
+
+<h1>Software de edición de sitios web</h1>
+<h1>¿Qué es?</h1>
+<P>Es un programa que ayuda a crear mucho más rápido los sitios con herramientas de la misma web</P>
+<h2> Función</h2>
+<p>Sirve para crear y diseñar páginas webs a traves de los lenguajes de programación</p>
+<h2> Caracterísitcas </h2>
+<p>Puedes decargarlos algunos en pc y otros en movil</p>
+<p>Es facil su uso solo saber los codigos </p>
+<p>Algunos tiene autocompletado por si no recuerdas bien las etiquetas</p>
+<p>Existen los que se descargan y lo que ya vienen integrados como block de notas</p>
+<p>Estos nos permiten también hacer estilos en css para nuestras páginas</p>
+<img src="icono/Sofware.jpg" WIDTH="400" HEIGHT="300" Title="sofware de edición" />
+<hr/>
+<hr/>
+
+
+<h1>Publicador de sitios web</h1>
+<h1>¿Qué es?</h1>
+<P>Es un sitio que nos permiten subir nuestros sitios webs creados a la web misma</P>
+<h2> Función</h2>
+<p>Su función es subir nuestras páginas web a la web para que puedan ser vistas por todos los usuarios que la busquen ya que si no la subimos solo la podremos ver nosotros desde nuetro computador</p>
+<h2> Caracterísitcas </h2>
+<p>Suben todo tipo decontenido que le enviemos</p>
+<p>Nos ayuda a subir nuestras páginas que cuando se crean se matienen solo en nuestro ordenador</p>
+<p>Forma parte del ultimo proceso para una página ya que lo ultimo es la publicación</p>
+
+<img src="icono/publicador.png" WIDTH="400" HEIGHT="300" Title="publicador de web" />
+<hr/>
+<hr/>
+
+
+
+<h1>Servidor</h1>
+<h2>¿Qué es?</h2>
+<P>Es un aparato informático que almacena, distribuye y suministra información, es un conjunto de computadoras capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia. </P>
+<h2> Función</h2>
+<p>Los servidores funcionan basándose en el modelo “cliente-servidor”. El cliente puede ser tanto un ordenador como una aplicación que requiere información del servidor para funcionar. Por tanto, un servidor ofrecerá la información demandada por el cliente siempre y cuando el cliente esté autorizado.
+</p>
+<h2> Caracterísitcas </h2>
+<p> Los servidores pueden ser físicos o virtuales.</p>
+<p>En el caso del físico, se trata de un hardware, también conocido como host (anfitrión), es una máquina (en forma de torre o enracable) integrada a una red de nodos basados en software.</p>
+<p>Tiene una gran capacidad de almacenamiento </p>
+<img src="icono/SERVIDOR.jpg" WIDTH="400" HEIGHT="300" Title="servidor de web"/>
+<hr/>
+
+<hr/>
+
+
+<h1>Dominio</h1>
+<h2>¿Qué es?</h2>
+<P>Es el nombre único e irrepetible que se le da a un sitio en Internet para que las marcas (propietarias de dichas páginas) sean identificadas de forma cómoda y sencilla por los usuarios y sus clientes.</P>
+<h2> Función</h2>
+<p>Su función es definir el propósito de un sitio web, por ejemplo para fines comerciales (.com), educativos (. edu), gubernamentales (. gob), etc. Por mencionar un ejemplo, puedes acompañar tu nombre de dominio (basado en el nombre de tu marca) con la extensión .
+</p>
+<h2> Caracterísitcas </h2>
+<p> Un dominio se compone principalmente de dos partes, un nombre y una extensión.</p>
+<p>Algunos de los tipos de extensiones más comunes son .com, .gob, .net, .edu y .org, que se refieren a comercial, gobierno, network, educación, y organización.</p>
+<img src="icono/dominio.jpg" WIDTH="400" HEIGHT="300" Title="dominio" />
+<hr/>
+<hr/>
+
+
+
+<h1>Solución web</h1>
+<h2>¿Qué es?</h2>
+<P>Estas soluciones son un conjunto de servicios destinados a proporcionar una alta visibilidad en internet, un diseño atractivo, sencilla navegabilidad, una alta conversión visita-cliente y accesibilidad desde dispositivos móviles. </P>
+<h2> Función</h2>
+<p>Da seguridad y una mejor atención para nuestra página web y para los usuarios que interactuen en ella
+</p>
+<h2> Caracterísitcas </h2>
+<p>Consigue captar nuevos clientes. Amplía tu mercado y aprovecha Internet.</p>
+<p>Refuerza la Imagen Corporativa</p>
+<p>Un diseño web de calidad refuerza la imagen de la empresa y su credibilidad</p>
+<p>Es un tipo de publicidad muy económica si la comparas con otros medios</p>
+<p>La Publicidad en Internet de puede medir y por lo tanto saber si una web es eficaz</p>
+<p>Los usuarios pueden consultar tus productos al instante y a cualquier hora</p>
+<p>Desde cualquier ciudad, pais. Tu web siempre va a estar disponible las 24h</p>
+<img src="icono/solucionesweb.jpg" WIDTH="400" HEIGHT="300" Title="soluciones web" />
+<hr/>
+<hr/>
+
+
+<h1>Plataforma web</h1>
+<h2>¿Qué es?</h2>
+<P>Es un lugar web que nos permite almacenar información ya sea personal o de negocios mediante la web </P>
+<h2> Función</h2>
+<p>Permiten la ejecución de diversas aplicaciones o programas en un mismo lugar para satisfacer distintas necesidades.
+</p>
+<h2> Caracterísitcas </h2>
+<p>Reúnen en diferentes proveedores, aplicaciones, servicios, contenidos y desarrolladores. Su valor crece en la medida que aumenta la oferta, tanto en cantidad como en calidad.</p>
+<p> Apple es la dominadora entre las plataformas cerradas o propietarias, mientras Android o varias compañías de telecomunicaciones aspiran a crear plataformas abiertas con diferentes grados de control sobre los desarrollos de terceros).</p>
+<p>Dan más control de los contenidos y de sus derechos de propiedad intelectual y uso a los proveedores, además de reunir más datos de los clientes y son gestoras del usuario final.</p>
+<p>Conviven varios modelos de negocio con pago por contenidos, suscripciones de acceso, micropagos, licencias por contenidos asociados a equipos y apoyos, etc.</p>
+
+
+
+ 
+              <img src="icono/plataforma.png" height="300" width="400">
+          
+<hr/>
+<hr/>
+
+<h1>Conceptos de herramientas de multimedia</h1>
+
+<h1>Mapas de bits</h1>
+<h2>¿Qué es?</h2>
+<p>Un mapa de bits es una matriz de bits que especifican el color de cada píxel en una matriz rectangular de píxeles. El número de bits dedicados a un píxel individual determina el número de colores que se pueden asignar a ese píxel. ... Una tabla de colores asigna números en el mapa de bits a colores específicos.</p>
+
+
+
+<img src="icono/mapa.png" height="300" width="400">
+
+
+
+<h1>Dibujos vectoriales</h1>
+
+<img src="icono/dibu.jpg" height="300" width="400">
+
+<H1>Animaciones 2d y 3d </H1>
+<img src="icono/23.jpg" height="300" width="400">
+
+<h1>Edición de fotografía</h1>
+<img src="icono/edi.jpg" height="300" width="400">
+
+<h1>Video de edición de video no lineal</h1>
+<img src="icono/vide.jpg" height="300" width="400">
+
+
+<h1>Software de edición gráfica</h1>
+<img src="icono/sof.jpg" height="300" width="400">
+
+
+<h1>Edición de sonido</h1>
+<img src="icono/soni.jpg" height="300" width="400">
+</body>
+</HTML>
